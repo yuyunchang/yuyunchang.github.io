@@ -40,6 +40,18 @@ The analysis changes the unit of estimation while holding the underlying data co
 
 ---
 
+## Publications
+
+### Why Has the United States Continued to Receive Net Investment Income as a Debtor Country?
+*with Juann Hung*
+
+*The World Economy*, 42(3), 2019.
+
+
+[Journal Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.12753)
+
+---
+
 ## Other Research
 
 ### Exchange Rate Forecastability with Monetary Policy Rule Models and Machine Learning
