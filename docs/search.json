@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Here are my current CVs for you to view or download."
+  },
+  {
+    "objectID": "cv.html#industry-model-risk-cv",
+    "href": "cv.html#industry-model-risk-cv",
+    "title": "CV",
+    "section": "Industry / Model Risk CV",
+    "text": "Industry / Model Risk CV\nFocused on model validation, quantitative research, financial engineering, data governance, and applied projects.\nView Industry CV"
+  },
+  {
+    "objectID": "cv.html#academic-cv",
+    "href": "cv.html#academic-cv",
+    "title": "CV",
+    "section": "Academic CV",
+    "text": "Academic CV\nResearch, teaching, publications, presentations, and academic background.\nView Academic CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yu-Yun Chang",
+    "section": "",
+    "text": "Ph.D. Candidate in Economics\nCUNY Graduate Center\nModel Risk · Quantitative Validation · Macro-Financial Forecasting\nMy research focuses on exchange-rate dynamics, macro-financial forecasting, time-series econometrics, and machine learning. I am also building applied projects in model validation, data governance, and AI model risk."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Yu-Yun Chang",
+    "section": "Research",
+    "text": "Research\n\nBeyond Data Release Timing: Information Alignment and the Measurement of Exchange-Rate Predictability\nJob Market Paper\nThis paper studies how the construction of the historical information set affects measured exchange-rate predictability, with particular attention to publication timing, forecast-origin information, and contemporaneous financial-market information.\nView Research →"
+  },
+  {
+    "objectID": "index.html#applied-projects",
+    "href": "index.html#applied-projects",
+    "title": "Yu-Yun Chang",
+    "section": "Applied Projects",
+    "text": "Applied Projects\nCurrent portfolio work includes:\n\nIndependent validation of a GARCH volatility model\nPoint-in-time financial data governance pipeline\nLLM / RAG system independent validation\nModel monitoring and inventory control framework\n\nView Projects →"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Yu-Yun Chang",
+    "section": "Contact",
+    "text": "Contact\nEmail: ychang2@gc.cuny.edu"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This paper studies how the construction of the historical information set affects measured exchange-rate predictability. I distinguish information available at the forecast origin from information assigned to the same economic reference period but observed only later.\nUsing a pseudo-real-time panel of 14 USD exchange rates, I compare traditional macroeconomic fundamentals with market-based predictors under alternative information-alignment rules. The results show that alignment effects are small for traditional macroeconomic specifications but substantially larger in specifications containing S&P 500 information.\nThe paper interprets this contrast as a measurement issue: forecast performance depends not only on which variables enter a model, but also on which realization of those variables the historical forecaster was actually allowed to observe.\nKeywords: Exchange rates, forecasting, information sets, real-time data, machine learning\nPaper PDF — coming soon"
+  },
+  {
+    "objectID": "research.html#job-market-paper",
+    "href": "research.html#job-market-paper",
+    "title": "Research",
+    "section": "",
+    "text": "This paper studies how the construction of the historical information set affects measured exchange-rate predictability. I distinguish information available at the forecast origin from information assigned to the same economic reference period but observed only later.\nUsing a pseudo-real-time panel of 14 USD exchange rates, I compare traditional macroeconomic fundamentals with market-based predictors under alternative information-alignment rules. The results show that alignment effects are small for traditional macroeconomic specifications but substantially larger in specifications containing S&P 500 information.\nThe paper interprets this contrast as a measurement issue: forecast performance depends not only on which variables enter a model, but also on which realization of those variables the historical forecaster was actually allowed to observe.\nKeywords: Exchange rates, forecasting, information sets, real-time data, machine learning\nPaper PDF — coming soon"
+  },
+  {
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Research",
+    "section": "Dissertation",
+    "text": "Dissertation\n\nWhen Long-Run Evidence Fails: Adjudication, Failure Modes, and Detectability\nThis chapter examines whether exchange rates exhibit stable long-run relationships with macroeconomic fundamentals once integration properties, structural breaks, deterministic specifications, and model admissibility are treated as part of the empirical evidence.\nAcross 14 USD exchange rates, no currency obtains primary support for a common four-variable long-run specification. The absence of support arises through several distinct empirical channels, including direct lack of cointegration evidence, integration ambiguity, deterministic-specification sensitivity, and dynamic misspecification.\nThe chapter also studies whether slow economic adjustment may make economically meaningful relationships difficult to detect in finite samples.\n\n\n\nUnit of Analysis and Pooled Identification\nThis chapter asks whether pooling information across currencies can recover structural or predictive content that is difficult to identify in individual exchange-rate models.\nThe analysis changes the unit of estimation while holding the underlying data construction fixed, providing a bridge between the long-run and forecasting evidence in the preceding chapters.\nWork in progress."
+  },
+  {
+    "objectID": "research.html#other-research",
+    "href": "research.html#other-research",
+    "title": "Research",
+    "section": "Other Research",
+    "text": "Other Research\n\nExchange Rate Forecastability with Monetary Policy Rule Models and Machine Learning\nwith Merih Uctum\nCompares purchasing power parity, uncovered interest parity, and Taylor-rule fundamentals with machine-learning and forecast-combination approaches.\n\n\nSources of Advanced Economies’ Outward Foreign Direct Investment Return Advantage\nwith Juann Hung\nExamines the sources of cross-country differences in outward foreign direct investment returns using time-series and difference-in-differences evidence."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My applied projects focus on model validation, data governance, quantitative risk, and AI model risk. The goal is to translate research and quantitative methods into reproducible, employer-facing work with clear validation logic, documentation, and controls."
+  },
+  {
+    "objectID": "projects.html#independent-validation-of-a-garch-volatility-model",
+    "href": "projects.html#independent-validation-of-a-garch-volatility-model",
+    "title": "Projects",
+    "section": "Independent Validation of a GARCH Volatility Model",
+    "text": "Independent Validation of a GARCH Volatility Model\nFocus: Market Risk · Model Validation · VaR Backtesting\nIndependent validation of a GARCH(1,1) volatility model using S&P 500 and EUR/USD daily returns.\nKey components:\n\nConceptual soundness and parameter diagnostics\nIndependent re-implementation of the GARCH likelihood\nBenchmarking against EWMA, Student-t GARCH, GJR-GARCH, EGARCH, and Historical Simulation\n95% and 99% one-day VaR backtesting\nKupiec and Christoffersen coverage tests\nBasel traffic-light analysis\nParameter stability and stress-period analysis\nOptional Black-Scholes pricing extension to study volatility-model risk transmission\n\nSkills: Python, time-series econometrics, VaR, Expected Shortfall, model benchmarking, implementation verification, sensitivity analysis\nStatus: In development"
+  },
+  {
+    "objectID": "projects.html#point-in-time-financial-data-governance-pipeline",
+    "href": "projects.html#point-in-time-financial-data-governance-pipeline",
+    "title": "Projects",
+    "section": "Point-in-Time Financial Data Governance Pipeline",
+    "text": "Point-in-Time Financial Data Governance Pipeline\nFocus: Data Risk · Backtesting Infrastructure · AWS\nA point-in-time financial data pipeline designed to prevent look-ahead bias and reconstruct the information actually available at each historical forecast origin.\nKey components:\n\nFRED / ALFRED real-time vintage data\nPostgreSQL point-in-time database\nRelease-date-aware joins\nPublication-lag and revision analysis\nAutomated schema, integrity, coverage, and outlier checks\nComparison of final-vintage versus historically available data\nAWS deployment using S3, RDS PostgreSQL, Lambda, EventBridge, and CloudWatch\nLeast-privilege IAM and reproducible data lineage\n\nSkills: SQL, PostgreSQL, AWS, data engineering, data governance, look-ahead controls, model-input validation\nStatus: In development"
+  },
+  {
+    "objectID": "projects.html#independent-validation-of-a-retrieval-augmented-llm-system",
+    "href": "projects.html#independent-validation-of-a-retrieval-augmented-llm-system",
+    "title": "Projects",
+    "section": "Independent Validation of a Retrieval-Augmented LLM System",
+    "text": "Independent Validation of a Retrieval-Augmented LLM System\nFocus: AI Model Validation · RAG · Model Governance\nA validation framework for a retrieval-augmented generation system built on public regulatory and model-risk documents.\nKey components:\n\nManually verified evaluation set with in-scope, out-of-scope, and adversarial questions\nRetrieval evaluation using Recall@k and MRR\nGeneration evaluation using faithfulness, citation accuracy, answer relevance, and hallucination rates\nPrompt-sensitivity and non-determinism testing\nChunk-size and context-ordering sensitivity\nFailure taxonomy separating retrieval, generation, and corpus failures\nSelf-hosted RAG system compared with a managed vendor implementation\nModel Card, Validation Report, and Monitoring Plan\n\nSkills: LLM evaluation, RAG, AI model risk, Python, AWS Bedrock, S3 Vectors, model governance\nStatus: In development"
+  },
+  {
+    "objectID": "projects.html#model-monitoring-and-inventory-control-center",
+    "href": "projects.html#model-monitoring-and-inventory-control-center",
+    "title": "Projects",
+    "section": "Model Monitoring and Inventory Control Center",
+    "text": "Model Monitoring and Inventory Control Center\nFocus: Ongoing Monitoring · Model Governance · Controls\nAn integration layer that consolidates monitoring outputs from multiple models into a model inventory and control framework.\nKey components:\n\nModel inventory and tiering\nValidation-cycle tracking\nInput drift monitoring using PSI, KS, and Jensen-Shannon divergence\nRolling performance monitoring\nGreen / yellow / red escalation rules\nIssue and remediation tracking\nCloudWatch metrics and alarms\nAutomated management reporting\n\nSkills: Model monitoring, governance, drift detection, issue management, AWS CloudWatch, control design\nStatus: Planned integration layer"
+  },
+  {
+    "objectID": "projects.html#credit-capital-model-validation",
+    "href": "projects.html#credit-capital-model-validation",
+    "title": "Projects",
+    "section": "Credit Capital Model Validation",
+    "text": "Credit Capital Model Validation\nFocus: Credit Risk · Regulatory Capital · Monte Carlo\nValidation of the Vasicek / ASRF credit-capital framework, including finite-portfolio effects, parameter sensitivity, and granularity risk.\nKey components:\n\nClosed-form ASRF capital calculation\nMonte Carlo validation\nPortfolio granularity analysis\nPD, LGD, and asset-correlation sensitivity\nProcyclicality and stress analysis\n\nSkills: Credit risk, Basel capital, Monte Carlo simulation, sensitivity analysis\nStatus: In development"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Economics at the CUNY Graduate Center, with a background in financial engineering and international economics.\nMy research focuses on exchange rates, macro-financial forecasting, time-series econometrics, and machine learning. Across my dissertation work, I study how empirical conclusions about exchange-rate predictability depend on long-run identification, information timing, and the unit of analysis.\nAlongside my academic research, I am developing applied projects in model validation, data governance, quantitative risk, and AI model risk."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nInternational Macroeconomics\nExchange Rates\nFinancial Econometrics\nTime-Series Forecasting\nMachine Learning in Economics\nModel Risk and Quantitative Validation"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nPh.D. in Economics\nThe Graduate Center, City University of New York\nExpected June 2027\nM.S. in Financial Engineering\nNYU Tandon School of Engineering, 2018\nM.A. in International Economics\nNational Chung Cheng University, 2015"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nEmail: ychang2@gc.cuny.edu\nNew York, NY\nLinkedIn · GitHub"
+  }
+]
