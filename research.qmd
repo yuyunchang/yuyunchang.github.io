@@ -1,0 +1,53 @@
+---
+title: "Research"
+---
+
+## Job Market Paper
+
+### Beyond Data Release Timing: Information Alignment and the Measurement of Exchange-Rate Predictability
+
+This paper studies how the construction of the historical information set affects measured exchange-rate predictability. I distinguish information available at the forecast origin from information assigned to the same economic reference period but observed only later.
+
+Using a pseudo-real-time panel of 14 USD exchange rates, I compare traditional macroeconomic fundamentals with market-based predictors under alternative information-alignment rules. The results show that alignment effects are small for traditional macroeconomic specifications but substantially larger in specifications containing S&P 500 information.
+
+The paper interprets this contrast as a measurement issue: forecast performance depends not only on which variables enter a model, but also on which realization of those variables the historical forecaster was actually allowed to observe.
+
+**Keywords:** Exchange rates, forecasting, information sets, real-time data, machine learning
+
+[Paper PDF — coming soon](#)
+
+---
+
+## Dissertation
+
+### When Long-Run Evidence Fails: Adjudication, Failure Modes, and Detectability
+
+This chapter examines whether exchange rates exhibit stable long-run relationships with macroeconomic fundamentals once integration properties, structural breaks, deterministic specifications, and model admissibility are treated as part of the empirical evidence.
+
+Across 14 USD exchange rates, no currency obtains primary support for a common four-variable long-run specification. The absence of support arises through several distinct empirical channels, including direct lack of cointegration evidence, integration ambiguity, deterministic-specification sensitivity, and dynamic misspecification.
+
+The chapter also studies whether slow economic adjustment may make economically meaningful relationships difficult to detect in finite samples.
+
+---
+
+### Unit of Analysis and Pooled Identification
+
+This chapter asks whether pooling information across currencies can recover structural or predictive content that is difficult to identify in individual exchange-rate models.
+
+The analysis changes the unit of estimation while holding the underlying data construction fixed, providing a bridge between the long-run and forecasting evidence in the preceding chapters.
+
+*Work in progress.*
+
+---
+
+## Other Research
+
+### Exchange Rate Forecastability with Monetary Policy Rule Models and Machine Learning
+*with Merih Uctum*
+
+Compares purchasing power parity, uncovered interest parity, and Taylor-rule fundamentals with machine-learning and forecast-combination approaches.
+
+### Sources of Advanced Economies' Outward Foreign Direct Investment Return Advantage
+*with Juann Hung*
+
+Examines the sources of cross-country differences in outward foreign direct investment returns using time-series and difference-in-differences evidence.

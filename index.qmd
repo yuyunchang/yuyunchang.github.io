@@ -1,0 +1,47 @@
+---
+title: ""
+---
+
+::: {.hero}
+
+::: {.hero-photo}
+![](images/profile.png)
+:::
+
+::: {.hero-text}
+# Yu-Yun Chang
+
+Ph.D. Candidate in Economics  
+CUNY Graduate Center
+
+**Model Risk · Quantitative Validation · Macro-Financial Forecasting**
+
+My research focuses on exchange-rate dynamics, macro-financial forecasting, time-series econometrics, and machine learning. I am also building applied projects in model validation, data governance, and AI model risk.
+:::
+
+:::
+
+## Research
+
+### Beyond Data Release Timing: Information Alignment and the Measurement of Exchange-Rate Predictability
+
+*Job Market Paper*
+
+This paper studies how the construction of the historical information set affects measured exchange-rate predictability, with particular attention to publication timing, forecast-origin information, and contemporaneous financial-market information.
+
+[View Research →](research.qmd)
+
+## Applied Projects
+
+Current portfolio work includes:
+
+- Independent validation of a GARCH volatility model
+- Point-in-time financial data governance pipeline
+- LLM / RAG system independent validation
+- Model monitoring and inventory control framework
+
+[View Projects →](projects.qmd)
+
+## Contact
+
+Email: ychang2@gc.cuny.edu

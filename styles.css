@@ -1,0 +1,100 @@
+.hero {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 42px;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 45px;
+}
+
+.hero-photo img {
+  width: 240px;
+  height: 300px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 2px;
+}
+
+.hero-text h1 {
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-size: 2.2rem;
+}
+
+.hero-text p {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+h2 {
+  margin-top: 38px;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .hero-photo img {
+    width: 220px;
+    height: 275px;
+  }
+}
+
+
+/* Research page */
+
+.quarto-title h1 {
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+  font-weight: 700;
+}
+
+h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.7rem;
+  font-weight: 650;
+}
+
+p {
+  line-height: 1.7;
+}
+
+hr {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  opacity: 0.2;
+}
+
+
+/* Projects page */
+
+h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 0.8rem;
+}
+
+h2 + p {
+  margin-top: 0.2rem;
+}
+
+strong {
+  font-weight: 650;
+}
+
+ul {
+  margin-top: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+hr {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  opacity: 0.18;
+}

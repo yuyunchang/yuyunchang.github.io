@@ -1,0 +1,38 @@
+---
+title: "About"
+---
+
+I am a Ph.D. candidate in Economics at the CUNY Graduate Center, with a background in financial engineering and international economics.
+
+My research focuses on exchange rates, macro-financial forecasting, time-series econometrics, and machine learning. Across my dissertation work, I study how empirical conclusions about exchange-rate predictability depend on long-run identification, information timing, and the unit of analysis.
+
+Alongside my academic research, I am developing applied projects in model validation, data governance, quantitative risk, and AI model risk.
+
+## Research Interests
+
+- International Macroeconomics
+- Exchange Rates
+- Financial Econometrics
+- Time-Series Forecasting
+- Machine Learning in Economics
+- Model Risk and Quantitative Validation
+
+## Education
+
+**Ph.D. in Economics**  
+The Graduate Center, City University of New York  
+Expected June 2027
+
+**M.S. in Financial Engineering**  
+NYU Tandon School of Engineering, 2018
+
+**M.A. in International Economics**  
+National Chung Cheng University, 2015
+
+## Contact
+
+Email: ychang2@gc.cuny.edu
+
+New York, NY
+
+[LinkedIn](#) · [GitHub](#)

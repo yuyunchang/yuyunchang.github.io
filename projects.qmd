@@ -1,0 +1,115 @@
+---
+title: "Projects"
+---
+
+My applied projects focus on model validation, data governance, quantitative risk, and AI model risk. The goal is to translate research and quantitative methods into reproducible, employer-facing work with clear validation logic, documentation, and controls.
+
+## Independent Validation of a GARCH Volatility Model
+
+**Focus:** Market Risk · Model Validation · VaR Backtesting
+
+Independent validation of a GARCH(1,1) volatility model using S&P 500 and EUR/USD daily returns.
+
+Key components:
+
+- Conceptual soundness and parameter diagnostics
+- Independent re-implementation of the GARCH likelihood
+- Benchmarking against EWMA, Student-t GARCH, GJR-GARCH, EGARCH, and Historical Simulation
+- 95% and 99% one-day VaR backtesting
+- Kupiec and Christoffersen coverage tests
+- Basel traffic-light analysis
+- Parameter stability and stress-period analysis
+- Optional Black-Scholes pricing extension to study volatility-model risk transmission
+
+**Skills:** Python, time-series econometrics, VaR, Expected Shortfall, model benchmarking, implementation verification, sensitivity analysis
+
+*Status: In development*
+
+---
+
+## Point-in-Time Financial Data Governance Pipeline
+
+**Focus:** Data Risk · Backtesting Infrastructure · AWS
+
+A point-in-time financial data pipeline designed to prevent look-ahead bias and reconstruct the information actually available at each historical forecast origin.
+
+Key components:
+
+- FRED / ALFRED real-time vintage data
+- PostgreSQL point-in-time database
+- Release-date-aware joins
+- Publication-lag and revision analysis
+- Automated schema, integrity, coverage, and outlier checks
+- Comparison of final-vintage versus historically available data
+- AWS deployment using S3, RDS PostgreSQL, Lambda, EventBridge, and CloudWatch
+- Least-privilege IAM and reproducible data lineage
+
+**Skills:** SQL, PostgreSQL, AWS, data engineering, data governance, look-ahead controls, model-input validation
+
+*Status: In development*
+
+---
+
+## Independent Validation of a Retrieval-Augmented LLM System
+
+**Focus:** AI Model Validation · RAG · Model Governance
+
+A validation framework for a retrieval-augmented generation system built on public regulatory and model-risk documents.
+
+Key components:
+
+- Manually verified evaluation set with in-scope, out-of-scope, and adversarial questions
+- Retrieval evaluation using Recall@k and MRR
+- Generation evaluation using faithfulness, citation accuracy, answer relevance, and hallucination rates
+- Prompt-sensitivity and non-determinism testing
+- Chunk-size and context-ordering sensitivity
+- Failure taxonomy separating retrieval, generation, and corpus failures
+- Self-hosted RAG system compared with a managed vendor implementation
+- Model Card, Validation Report, and Monitoring Plan
+
+**Skills:** LLM evaluation, RAG, AI model risk, Python, AWS Bedrock, S3 Vectors, model governance
+
+*Status: In development*
+
+---
+
+## Model Monitoring and Inventory Control Center
+
+**Focus:** Ongoing Monitoring · Model Governance · Controls
+
+An integration layer that consolidates monitoring outputs from multiple models into a model inventory and control framework.
+
+Key components:
+
+- Model inventory and tiering
+- Validation-cycle tracking
+- Input drift monitoring using PSI, KS, and Jensen-Shannon divergence
+- Rolling performance monitoring
+- Green / yellow / red escalation rules
+- Issue and remediation tracking
+- CloudWatch metrics and alarms
+- Automated management reporting
+
+**Skills:** Model monitoring, governance, drift detection, issue management, AWS CloudWatch, control design
+
+*Status: Planned integration layer*
+
+---
+
+## Credit Capital Model Validation
+
+**Focus:** Credit Risk · Regulatory Capital · Monte Carlo
+
+Validation of the Vasicek / ASRF credit-capital framework, including finite-portfolio effects, parameter sensitivity, and granularity risk.
+
+Key components:
+
+- Closed-form ASRF capital calculation
+- Monte Carlo validation
+- Portfolio granularity analysis
+- PD, LGD, and asset-correlation sensitivity
+- Procyclicality and stress analysis
+
+**Skills:** Credit risk, Basel capital, Monte Carlo simulation, sensitivity analysis
+
+*Status: In development*

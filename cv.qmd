@@ -1,0 +1,20 @@
+---
+title: "CV"
+---
+
+Here are my current CVs for you to view or download.
+
+
+## Industry / Model Risk CV
+
+Focused on model validation, quantitative research, financial engineering, data governance, and applied projects.
+
+[View Industry CV](files/YuYun_Chang_MRM_CV.pdf)
+
+
+## Academic CV
+
+Research, teaching, publications, presentations, and academic background.
+
+[View Academic CV](files/YuYun_Chang_Academic_CV.pdf)
+
