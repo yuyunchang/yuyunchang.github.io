@@ -23,11 +23,11 @@ My research focuses on exchange-rate dynamics, macro-financial forecasting, time
 
 ## Research
 
-### Beyond Data Release Timing: Information Alignment and the Measurement of Exchange-Rate Predictability
+### Is the Dollar Reconnect Forecastable? Information Timing and Exchange-Rate Predictability
 
 *Job Market Paper*
 
-This paper studies how the construction of the historical information set affects measured exchange-rate predictability, with particular attention to publication timing, forecast-origin information, and contemporaneous financial-market information.
+This paper studies whether the post-2007 reconnect between the U.S. dollar and global financial variables translates into real-time exchange-rate predictability. Using 13 currencies through December 2025, I compare feasible forecast-origin information with a realized-regressor benchmark for the same exchange-rate target. The reconnect is strong in realized data, but forecast-origin performance remains weak, showing that much of the apparent forecasting gain comes from information realized during the forecast window.
 
 [View Research →](research.qmd)
 
